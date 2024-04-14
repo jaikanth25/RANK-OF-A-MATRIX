@@ -20,7 +20,7 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 Display the rank of matrix A using the print() statement.
 
 ## Program:
-Development by : JAIKANTH B
+Developed by : JAIKANTH B
 Register no : 2305002010
 ```
 import numpy as np
