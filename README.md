@@ -20,9 +20,9 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 Display the rank of matrix A using the print() statement.
 
 ## Program:
-Developed by : JAIKANTH B
-Register no : 2305002010
 ```
+Developed by : Jaikanth B
+Register number : 2305002010
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 R=np.linalg.matrix_rank(A)
